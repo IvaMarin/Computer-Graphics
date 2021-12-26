@@ -28,7 +28,7 @@ OpenGL
 ![alt text](https://github.com/IvaMarin/Computer-Graphics/blob/main/screenshots/cg_lab6_screenshot.png)
 
 ## Лабораторная работа 7
-Сегмент кривой Катмулла-Рома (Catmull-Rom)
+Сегмент кривой Кэтмулла-Рома (Catmull-Rom)
 
 ![alt text](https://github.com/IvaMarin/Computer-Graphics/blob/main/screenshots/cg_lab7_screenshot.png)
 
